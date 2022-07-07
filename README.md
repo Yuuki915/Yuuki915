@@ -7,9 +7,9 @@
 
 <br/>
 
-<h2 align="center">
+<h3 align="center">
   <a href="https://app.netlify.com/sites/yukihori/overview" target="blank">See My Portfolio</a>
-</h2>
+</h3>
 
 <br/>
 
