@@ -8,7 +8,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://app.netlify.com/sites/yukihori/overview">See My Portfolio</a>
+  <a href="https://yukihori.netlify.app">See My Portfolio</a>
 </p>
 
 <br/>
