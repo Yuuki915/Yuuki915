@@ -8,6 +8,7 @@
 <br/>
 
 <h3 align="center">
+    [See My Portfolio](https://yukihori.pages.dev/){:target="_blank"}
   <a target="_blank" href="https://yukihori.pages.dev/">See My Portfolio</a>
 </h3>
 
