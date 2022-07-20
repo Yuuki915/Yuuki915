@@ -8,7 +8,7 @@
 <br/>
 
 <h3 align="center">
-  <a href="https://yukihori.pages.dev/" target="_blank">See My Portfolio</a>
+  <a href="https://yukihori.pages.dev/" target="_blank" rel="noopener">See My Portfolio</a>
 </h3>
 
 <br/>
