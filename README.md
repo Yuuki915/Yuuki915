@@ -2,7 +2,7 @@
 <!-- <h3 align="center">A passionate Frontend Developer from Japan</h3> -->
 <br/>
 <p align="center">
-    A front-end developer with extensive background in education and who loves web development with web design. And a hard worker who gain knowledge as well as have developed proven teamwork, communication and problem-solving skills.
+    A front-end developer with extensive background in education and who is motivated, challenging and loves web development with web design. And a hard worker who gain knowledge as well as have developed proven teamwork, communication and problem-solving skills.
 </p>
 
 <br/>
