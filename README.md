@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm Yuki ☺︎</h1>
+<h1 align="left">Hi, I'm Yuki ☺︎</h1>
 <!-- <h3 align="center">A passionate Frontend Developer from Japan</h3> -->
 <br/>
-<p align="center">
+<p align="left">
     A front-end developer with extensive background in education and who is motivated, challenging and loves web development with web design. And a hard worker who gain knowledge as well as have developed proven teamwork, communication and problem-solving skills.
 </p>
 
 <br/>
 
-<h3 align="center">
+<h3 align="left">
   <a href="https://yukihori.pages.dev/">See My Portfolio</a>
 </h3>
 
