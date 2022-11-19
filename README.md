@@ -2,7 +2,9 @@
 <!-- <h3 align="center">A passionate Frontend Developer from Japan</h3> -->
 <br/>
 <p align="left">
-    Software Developer with extensive project experience and a passion for learning and growth. A hard worker who has strong communication skills to develop relationships with clients and coworkers. 
+    Software Developer with extensive project experience and a passion for learning and growth. A hard worker who has strong communication skills to develop relationships with clients and coworkers.
+</p>
+<p align="left">
 I am excellent in working in teams and enjoy collaboration with peers; Also, I am confident in the development of large-scale front-end projects such as e-commerce sites and large-scale apps. I will do my best to deliver pleasing and modern interfaces.
 </p>
 
