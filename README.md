@@ -45,6 +45,5 @@ I always work with a collaborative communication and have a passion for learning
 <br/>
 
 <!-- status -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuuki915&theme=calm&show_icons=true&locale=en" alt="yuuki915" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuuki915&theme=calm" alt="yuuki915" /></p>
